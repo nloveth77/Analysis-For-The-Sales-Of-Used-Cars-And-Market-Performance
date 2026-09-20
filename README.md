@@ -2,15 +2,24 @@
 # Analysis-For-The-Sales-Of-Used-Cars-And-Market-Performance
 
 
+
 Introduction
+
 
 This technical report evaluates a automotive dataset comprising 50,000 transaction records across major car manufacturers. The analysis evaluates key attributes such as manufacturing year, engine specifications, fuel type, vehicle mileage, and sales price to uncover price determinants, buyer preferences, and manufacturer revenue performance.
 
 
+
 Objective
+
+
 Revenue Drivers: Identify which vehicle manufacturing eras and brand portfolios contribute the highest cumulative revenue.
 Feature Value Impact: Determine the influence of engine size, fuel type, and mileage on market valuation and sales volume.
 Portfolio Optimization: Highlight high-performing vehicle models and isolate underperforming assets to optimize inventory and sales strategy.
+
+
+
+
 
 
 
@@ -23,15 +32,25 @@ Portfolio Optimization: Highlight high-performing vehicle models and isolate und
 
 
 
+
+
+
+
+
+
 Dependent and Independent Variables
 
+
 Dependent Variable
+
+
 
 Price/ Total Revenue: The main continuous variable indicating total valuation or gross revenue generated.
 
 
 
 Independent Variables
+
 
 Manufacturer and Model: Categorical factors defining brand power and model demand.
 
