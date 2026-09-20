@@ -1,0 +1,2 @@
+# Analysis-For-The-Sales-Of-Used-Cars-And-Market-Performance
+This technical report evaluates a automotive dataset comprising 50,000 transaction records across major car manufacturers. The analysis evaluates key attributes such as manufacturing year, engine specifications, fuel type, vehicle mileage, and sales price to uncover price determinants, buyer preferences, and manufacturer revenue performance.
