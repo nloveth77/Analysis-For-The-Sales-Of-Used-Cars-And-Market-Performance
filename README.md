@@ -117,6 +117,7 @@ Powertrain Realities: Traditional internal combustion engines (Petrol) remain do
 
 Recommendations
 
+
 Inventory Sourcing Strategy: Focus dealership procurement on 2014–2018 production models, particularly Toyota and Ford units under 100,000 miles to maximize turnover speed and margin.
 
 Targeted Stock Allocation: Prioritize high-displacement utility and family vehicles (Toyota RAV4, Ford Mondeo, VW Golf/Passat) as core stock holdings.
@@ -127,6 +128,8 @@ Selective Niche Pricing: Implement adjusted margin pricing or specialized market
 
 
 Summary
+
+
 This analysis highlights that overall vehicle sales revenue is primarily driven by mid-age vehicles (2014–2018) from volume manufacturers like Toyota, Ford, and VW. While petrol engines continue to lead total transaction values, utility models with moderate-to-high engine displacement yield superior demand. Aligning inventory acquisition toward high-turnover models will maximize capital return and streamline stock management.
 
 
@@ -134,4 +137,6 @@ This analysis highlights that overall vehicle sales revenue is primarily driven 
 
 
 Reference
+
+
 kaggle.com
